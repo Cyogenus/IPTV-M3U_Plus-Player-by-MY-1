@@ -8,9 +8,9 @@ BLAZIN IPTV Player is built after my earlier IPTV player projects and brings mul
 
 **Now available on the Microsoft Store with a free 7-day trial.**
 
-[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T)
+[Download BLAZIN IPTV Player from the Microsoft Store](https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=github_xtream)
 
-<a href="https://apps.microsoft.com/detail/9NQ5S0FFCN8T?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
+<a href="https://apps.microsoft.com/detail/9NQ5S0FFCN8T?cid=github_xtream?referrer=appbadge&mode=full" target="_blank"  rel="noopener noreferrer">
 	<img src="https://get.microsoft.com/images/en-us%20light.svg" width="200"/>
 </a>
 
